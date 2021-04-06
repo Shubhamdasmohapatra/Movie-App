@@ -468,7 +468,7 @@ export const data = [
     Response: 'True'
   },
   {
-    Title: 'Attack On Titan1',
+    Title: 'Attack On Titan',
     Year: '2013',
     Rated: 'PG-13',
     Released: '14 Jun 2013',
